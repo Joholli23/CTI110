@@ -3,6 +3,13 @@
 # p1hw1.py
 # Calculate and display travel expenses
 
+"""
+1. Display the purpose of the program to the user
+1. Prompt the user to enter their budget, destination, and estimated costs for gas, hotel, and food.
+2. Calculate the remaining balance after subtracting the estimated costs from the budget.
+3. Display the travel expenses and remaining balance in a formatted manner.
+"""
+
 print("This program calculates and displays travel expenses")
 print()
 
