@@ -3,6 +3,13 @@
 # p2hw2.py
 # Design program that enters grades in a list and calculates the average
 
+"""
+1. create a list to hold the grades
+2. prompt the user to enter grades for each module and append them to the list
+3. calculate the lowest grade, highest grade, sum of grades, and average grade
+4. display the results in a formatted manner
+"""
+
 # Create the list
 module_grades = []
 
